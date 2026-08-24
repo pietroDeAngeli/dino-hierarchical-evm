@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+cython
+torch==2.5.1
+torchvision==0.20.1
+transformers==5.8.0
+faiss-cpu==1.11.0
+fiftyone==1.13.4
+huggingface-hub==1.14.0
+opencv-python-headless==4.9.0.80

@@ -1,0 +1,41 @@
+**__pycache__
+
+
+# Directories
+results
+dataset/
+dataset_COCO_val/
+val2017/
+train2017/
+outputs/
+input_static/
+inputs/
+outputs*/
+lambda_res/
+faiss_rand/
+TestData/
+ablation_hierarchy
+ablation_jl
+ablation_neg_selection
+ablation_results_COCO
+ablation_results_COCO_val
+ablation_results_iNat
+data/
+models/
+res/
+
+
+# Files
+#*.sbatch
+*.log
+.env
+*.zip
+descriptor.json
+*.json
+*.sbatch
+*.sh
+*.lz4
+
+# swap files
+*.swp
+*.pyc

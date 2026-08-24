@@ -1,0 +1,16 @@
+name: hol
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.19
+  - numpy=1.26.4
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - matplotlib
+  - tqdm
+  - pyyaml
+  - ninja
+  - pip
